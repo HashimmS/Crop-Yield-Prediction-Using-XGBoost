@@ -71,4 +71,4 @@ if uploaded_file is not None:
         st.error("Uploaded CSV must contain columns: Year, average_rain_fall_mm_per_year, pesticides_tonnes, avg_temp")
 
 # Footer
-st.write("Developed for Crop Yield Prediction using Machine Learning 🚀")
+st.write("Developed for Crop Yield Prediction using XGBoost 🚀")
