@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Image](https://github.com/user-attachments/assets/b0538377-5629-4758-a72b-e2b8b8cdb09a)
 
 ## Project Structure
 
