@@ -25,7 +25,7 @@ Two datasets are used:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crop-yield-prediction.git
+git clone https://github.com/vivekszan/Crop-Yield-Prediction-Using-XGBoost.git
 cd crop-yield-prediction
 ```
 
