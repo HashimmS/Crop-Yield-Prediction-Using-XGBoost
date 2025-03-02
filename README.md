@@ -26,7 +26,6 @@ Two datasets are used:
 
 ```bash
 git clone https://github.com/vivekszan/Crop-Yield-Prediction-Using-XGBoost.git
-cd crop-yield-prediction
 ```
 
 ### Install Dependencies
